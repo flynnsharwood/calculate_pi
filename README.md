@@ -15,4 +15,4 @@ Output:
 ```
 Pi = 3.141592653589793, elapsed time = 0.03717913627624512 seconds
 ```
-Note: The larger the number of iterations, the more accurate the calculated value of Pi will be, but the longer the elapsed time will be.
+Note: The larger the number of iterations, more accurate the calculated value of Pi will be, but the longer the elapsed time will be.
